@@ -1,0 +1,2 @@
+# Current-Project-Investigating-a-poorly-designed-database-for-a-soial-news-aggregator-In-Progress-
+Unfortunately, due to some time constraints before the initial launch of the site, the data model stored in Postgres hasn’t been well thought out, and is starting to show its flaws. I’ve been brought in for two reasons: first, to make an assessment of the situation and take steps to fix all the issues with the current data model, and then, once successful, to improve the current system by making it more robust and adding some web analytics.
